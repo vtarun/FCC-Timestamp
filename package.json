@@ -1,0 +1,24 @@
+{
+  "name": "fcc-timestamp",
+  "version": "1.0.0",
+  "description": "display time in unix and natural format",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vtarun/FCC-Timestamp.git"
+  },
+  "author": "vtarun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vtarun/FCC-Timestamp/issues"
+  },
+  "homepage": "https://github.com/vtarun/FCC-Timestamp#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
